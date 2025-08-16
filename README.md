@@ -23,9 +23,7 @@
     <a href="mailto:yeahianurulamin8800@gmail.com">
       <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" style="margin: 5px; transition: transform 0.3s ease;" />
     </a>
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio" style="margin: 5px; transition: transform 0.3s ease;" />
-    </a>
+    
   </div>
 
   <!-- Current Focus Animation -->
