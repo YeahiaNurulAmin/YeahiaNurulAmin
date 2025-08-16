@@ -153,54 +153,86 @@ graph LR
 <tr>
 <td width="50%" align="center">
 
-### 🌟 Project Showcase Coming Soon!
+### 🎨 Leon Template
 
-```ascii
-    🚧 Under Construction 🚧
-    
-    ╔═══════════════════════╗
-    ║   Amazing Projects    ║
-    ║      Loading...       ║
-    ║   ████████████░░░     ║
-    ╚═══════════════════════╝
-    
-    Stay tuned for:
-    • React Web Apps
-    • Express.js APIs
-    • Full-Stack Solutions
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+Modern, responsive landing page template featuring elegant design and smooth animations. Built with pure HTML, CSS, and JavaScript showcasing creative layout design and user interface development skills.
+
+**Key Features:**
+- 📱 Fully responsive design
+- ✨ Smooth animations
+- 🎨 Modern UI/UX
+- 🚀 Fast loading
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Coming_Soon-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Coming Soon" />
+  <a href="https://github.com/YeahiaNurulAmin/Tempate_Leon" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+  </a>
+  <a href="https://yeahianurulamin.github.io/Tempate_Leon/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-00d4aa?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
 </p>
 
 </td>
 <td width="50%" align="center">
 
-### 💡 What's Brewing
+### 🌟 Kasper Template
 
-```javascript
-const upcomingProjects = {
-  taskManager: {
-    stack: ["React", "Express", "MongoDB"],
-    status: "Planning",
-    excitement: "🔥🔥🔥"
-  },
-  portfolioSite: {
-    stack: ["Next.js", "TypeScript"],
-    status: "Design Phase", 
-    excitement: "🔥🔥🔥🔥"
-  }
-};
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+Creative agency template with stunning visuals and interactive elements. A showcase of advanced CSS techniques and modern web design principles with emphasis on visual storytelling and user engagement.
+
+**Key Features:**
+- 🎭 Creative design approach
+- 🖼️ Visual storytelling
+- 💫 Interactive elements
+- 📐 Pixel-perfect layout
 
 <p>
-  <img src="https://img.shields.io/badge/Ideas-Infinite-blue?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Ideas" />
+  <a href="https://github.com/YeahiaNurulAmin/Template_Kasper" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+  </a>
+  <a href="https://yeahianurulamin.github.io/Template_Kasper/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-00d4aa?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
 </p>
 
 </td>
 </tr>
 </table>
+
+### 🚀 More Projects Coming Soon!
+
+```javascript
+const upcomingProjects = {
+  reactTaskManager: {
+    stack: ["React", "Express", "MongoDB"],
+    status: "In Development",
+    progress: "🔄 Planning Phase"
+  },
+  nextjsPortfolio: {
+    stack: ["Next.js", "TypeScript", "Tailwind"],
+    status: "Design Phase", 
+    progress: "🎨 UI/UX Design"
+  },
+  fullStackEcommerce: {
+    stack: ["MERN Stack"],
+    status: "Roadmap",
+    progress: "📋 Architecture Planning"
+  }
+};
+
+console.log("Building the future, one project at a time! 🚀");
+```
 
 </div>
 
