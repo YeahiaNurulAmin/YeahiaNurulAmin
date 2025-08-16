@@ -17,7 +17,7 @@
     <a href="https://www.linkedin.com/in/yeahia-nurul-amin-5b87aa366/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://{{your-portfolio-domain}}" target="_blank">
+    <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:yeahianurulamin8800@gmail.com">
