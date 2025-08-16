@@ -5,8 +5,8 @@
 
 <!-- Header / Hero -->
 <div align="center" style="margin-top: 8px;">
-  <img src="https://github.com/{{YeahiaNurulAmin}}.png" width="120" height="120" style="border-radius: 50%;" alt="{{Your Name}} avatar" />
-  <h1 style="margin: 12px 0 0;">Hi there 👋, I'm {{Your Name}}</h1>
+  <img src="https://github.com/YeahiaNurulAmin.png" width="120" height="120" style="border-radius: 50%;" alt="{{Your Name}} avatar" />
+  <h1 style="margin: 12px 0 0;">Hi there 👋, I'm Yeahia Nurul Amin</h1>
   <p style="font-size: 16px; line-height: 1.6; margin: 8px 0;">
     Computer Science Student • Aspiring <b>Full‑Stack Developer</b><br/>
     I build things that blend <b>creativity</b> and <b>problem‑solving</b>, and I’m always learning.
