@@ -136,15 +136,15 @@ graph TD
     G --> H[Express.js Backend]
     H --> I[MERN Stack Mastery]
     
-    style A fill:#00599C
-    style B fill:#00599C
-    style C fill:#CC2927
-    style D fill:#239120
-    style E fill:#049bc4
-    style F fill:#61DAFB
-    style G fill:#47A248
-    style H fill:#000000
-    style I fill:#00d4aa
+    style A fill:#00599C,stroke:#00d4aa,stroke-width:2px,color:#fff
+    style B fill:#00599C,stroke:#00d4aa,stroke-width:2px,color:#fff
+    style C fill:#CC2927,stroke:#00d4aa,stroke-width:2px,color:#fff
+    style D fill:#239120,stroke:#00d4aa,stroke-width:2px,color:#fff
+    style E fill:#E34F26,stroke:#00d4aa,stroke-width:2px,color:#fff
+    style F fill:#61DAFB,stroke:#00d4aa,stroke-width:2px,color:#000
+    style G fill:#47A248,stroke:#00d4aa,stroke-width:2px,color:#fff
+    style H fill:#000000,stroke:#00d4aa,stroke-width:3px,color:#00d4aa
+    style I fill:#00d4aa,stroke:#fff,stroke-width:3px,color:#000
 ```
 
 </div>
@@ -324,13 +324,24 @@ Complete full-stack web application demonstrating end-to-end development skills:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YeahiaNurulAmin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=ffffff&icon_color=00d4aa"/>
+<a href="https://github.com/YeahiaNurulAmin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YeahiaNurulAmin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=ffffff&icon_color=00d4aa" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/YeahiaNurulAmin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeahiaNurulAmin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=ffffff" alt="Top Languages"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeahiaNurulAmin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=ffffff"/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YeahiaNurulAmin&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakLabel=ffffff"/>
+<a href="https://github.com/YeahiaNurulAmin">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YeahiaNurulAmin&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakLabel=ffffff" alt="GitHub Streak"/>
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YeahiaNurulAmin&theme=tokyo-night&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true"/>
+<br/>
+
+<a href="https://github.com/YeahiaNurulAmin">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YeahiaNurulAmin&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
+</a>
 
 </div>
 
