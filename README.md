@@ -140,7 +140,7 @@ graph TD
     style B fill:#00599C
     style C fill:#CC2927
     style D fill:#239120
-    style E fill:#E34F26
+    style E fill:#049bc4
     style F fill:#61DAFB
     style G fill:#47A248
     style H fill:#000000
