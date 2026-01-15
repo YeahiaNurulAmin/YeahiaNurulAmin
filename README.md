@@ -2,241 +2,325 @@
 
 <div align="center">
   
-  <!-- Animated Profile Picture with Glow Effect -->
-  <img src="https://github.com/YeahiaNurulAmin.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #00d4aa; box-shadow: 0 0 20px rgba(0, 212, 170, 0.4); animation: profileGlow 2s ease-in-out infinite alternate;" alt="Yeahia Nurul Amin" />
+  <img src="https://github.com/YeahiaNurulAmin.png" width="180" height="180" style="border-radius: 50%; border: 5px solid #00d4aa; box-shadow: 0 0 30px rgba(0, 212, 170, 0.5);" alt="Yeahia Nurul Amin" />
   
-  <!-- Typing Animation Header -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D4AA&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Yeahia;Full-Stack+Developer;Problem+Solver+%26+Creator;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&height=60&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Specialist;Problem+Solver+%26+Innovator" alt="Typing SVG" />
   </h1>
 
-  <!-- Animated Subtitle -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=6C7B7F&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Building+Creative+Solutions;React+%E2%9D%A4%EF%B8%8F+Express.js+Enthusiast;Next.js+Explorer" alt="Subtitle Typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=500&color=6C7B7F&center=true&vCenter=true&width=600&lines=Computer+Science+Student;From+C%2B%2B+to+MERN+Stack;Building+Real-World+Solutions;Continuous+Learner+%F0%9F%93%88" alt="Subtitle" />
   </p>
 
-  <!-- Social Badges with Hover Effects -->
-  <div style="margin: 20px 0;">
+  <div style="margin: 25px 0;">
     <a href="https://www.linkedin.com/in/yeahia-nurul-amin-5b87aa366/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="margin: 5px; transition: transform 0.3s ease;" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:yeahianurulamin8800@gmail.com">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" style="margin: 5px; transition: transform 0.3s ease;" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    
+    <img src="https://komarev.com/ghpvc/?username=YeahiaNurulAmin&color=00d4aa&style=for-the-badge&label=VISITORS" alt="Profile Views"/>
   </div>
-
-  <!-- Current Focus Animation -->
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AF+Currently+mastering+React+%26+Express.js;%F0%9F%9A%80+Next+destination%3A+Next.js;%F0%9F%92%A1+Building+innovative+solutions;%F0%9F%A4+Collaboration+%26+continuous+learning" alt="Current Focus" />
-  </p>
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 🎯 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding"/>
 
 ```javascript
 const yeahia = {
-  currentStatus: "Computer Science Student",
-  focus: ["React", "Express.js", "Full-Stack Development"],
-  nextGoals: ["Next.js", "TypeScript", "Cloud Deployment"],
-  philosophy: "Innovation through collaboration",
-  funFact: "I debug with console.log() and I'm not ashamed! 😄"
+  education: "Computer Science Student",
+  expertise: ["MERN Stack", "C++", "Database Design"],
+  currentProject: "Full-Stack MERN Application (near completion)",
+  languages: ["JavaScript", "C++", "C#", "Java", "Python", "PHP"],
+  passions: ["Problem Solving", "System Design", "Web Development"],
+  learningStyle: "Fundamentals → Application → Mastery"
 };
 
-console.log(yeahia.philosophy);
-// "Innovation through collaboration"
+console.log(`Building: ${yeahia.currentProject}`);
 ```
 
-- 🌱 Currently diving deep into **React** & **Express.js**
-- 🎯 Next milestone: **Next.js** for full-stack mastery
-- 💡 I create **practical solutions** with a creative twist
-- 🤝 Strong believer in **collaborative development**
-- 🚀 Goal: Building impactful products as a full-stack developer
+**My Journey in Brief:**
+- 🏗️ Started with **C++ fundamentals**, Data Structures & OOP
+- 🗄️ Mastered **SQL Server** and database connectivity with **C#**
+- 🌐 Transitioned to **Web Development** (HTML, CSS, JavaScript)
+- ⚛️ Advanced to **React** for modern frontend development
+- 🔧 Completed the stack with **MongoDB** and **Express.js**
+- 🚀 Now building production-ready **MERN Stack** applications
 
 ---
 
-## 🛠️ Tech Arsenal
+## 💼 Technical Arsenal
 
 <div align="center">
 
-### Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=js,cpp,java,react,express,html,css&theme=dark" alt="Languages and Frameworks" />
-</p>
-
-### Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&theme=dark" alt="Databases and Tools" />
-</p>
-
-### Learning Next
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,typescript,docker&theme=dark" alt="Learning Next" />
-</p>
-
-</div>
-
----
-
-## 📈 Skill Proficiency
-
-<div align="center">
-
-| Technology | Proficiency | Experience |
-|------------|-------------|------------|
-| **JavaScript** | ![JavaScript](https://img.shields.io/badge/Intermediate-70%25-F7DF1E?style=flat-square) | 🔥🔥🔥⚪⚪ |
-| **HTML & CSS** | ![HTML/CSS](https://img.shields.io/badge/Strong-80%25-1572B6?style=flat-square) | 🔥🔥🔥🔥⚪ |
-| **C++** | ![C++](https://img.shields.io/badge/Intermediate-65%25-00599C?style=flat-square) | 🔥🔥🔥⚪⚪ |
-| **Java** | ![Java](https://img.shields.io/badge/Intermediate-60%25-007396?style=flat-square) | 🔥🔥🔥⚪⚪ |
-| **React** | ![React](https://img.shields.io/badge/Learning-45%25-61DAFB?style=flat-square) | 🔥🔥⚪⚪⚪ |
-| **Databases** | ![Databases](https://img.shields.io/badge/Intermediate-70%25-47A248?style=flat-square) | 🔥🔥🔥⚪⚪ |
-
-</div>
-
----
-
-## 🚀 Learning Journey
-
-<details open>
-<summary><h3>🎯 Current Roadmap</h3></summary>
-
-```mermaid
-graph LR
-    A[React Fundamentals] --> B[Express.js Mastery]
-    B --> C[Next.js Deep Dive]
-    C --> D[TypeScript Integration]
-    D --> E[Testing & Deployment]
-    
-    style A fill:#61DAFB
-    style B fill:#000000
-    style C fill:#000000
-    style D fill:#3178C6
-    style E fill:#47A248
-```
-
-**Phase 1: Foundation** ✅
-- [x] HTML/CSS Mastery
-- [x] JavaScript Fundamentals
-- [x] Git & Version Control
-
-**Phase 2: Frontend** 🔄
-- [ ] React Hooks & Context
-- [ ] Component Architecture
-- [ ] State Management
-
-**Phase 3: Backend** 🔄
-- [ ] Express.js & REST APIs
-- [ ] Database Integration
-- [ ] Authentication & Security
-
-**Phase 4: Full-Stack** 🔮
-- [ ] Next.js Framework
-- [ ] TypeScript
-- [ ] Testing & Deployment
-
-</details>
-
----
-
-## 🎨 Featured Projects
-
-<div align="center">
+### Core Technologies
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" alt="C++" /><br>
+<sub><b>C++</b></sub><br>
+<sub>DSA & OOP Foundation</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=cs" width="60" height="60" alt="C#" /><br>
+<sub><b>C#</b></sub><br>
+<sub>Desktop Applications</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" /><br>
+<sub><b>JavaScript</b></sub><br>
+<sub>Full-Stack Development</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" /><br>
+<sub><b>React</b></sub><br>
+<sub>Modern UI Development</sub>
+</td>
+</tr>
+</table>
 
-### 🎨 Leon Template
+### Full-Stack Proficiency
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" /><br>
+<sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" /><br>
+<sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" /><br>
+<sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" /><br>
+<sub><b>Express.js</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" /><br>
+<sub><b>Node.js</b></sub>
+</td>
+</tr>
+</table>
 
-Modern, responsive landing page template featuring elegant design and smooth animations. Built with pure HTML, CSS, and JavaScript showcasing creative layout design and user interface development skills.
-
-**Key Features:**
-- 📱 Fully responsive design
-- ✨ Smooth animations
-- 🎨 Modern UI/UX
-- 🚀 Fast loading
+### Additional Languages & Tools
 
 <p>
-  <a href="https://github.com/YeahiaNurulAmin/Tempate_Leon" target="_blank">
-    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-  <a href="https://yeahianurulamin.github.io/Tempate_Leon/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-00d4aa?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,php,mysql,git,github,vscode,dotnet&theme=dark" alt="Other Technologies" />
 </p>
+
+</div>
+
+---
+
+## 📚 Learning Path
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[C++ Fundamentals] --> B[Data Structures & OOP]
+    B --> C[SQL Server & Databases]
+    C --> D[C# & Database Connectivity]
+    D --> E[Web Fundamentals: HTML/CSS/JS]
+    E --> F[React Frontend]
+    F --> G[MongoDB NoSQL]
+    G --> H[Express.js Backend]
+    H --> I[MERN Stack Mastery]
+    
+    style A fill:#00599C
+    style B fill:#00599C
+    style C fill:#CC2927
+    style D fill:#239120
+    style E fill:#E34F26
+    style F fill:#61DAFB
+    style G fill:#47A248
+    style H fill:#000000
+    style I fill:#00d4aa
+```
+
+</div>
+
+### Key Milestones
+
+<table>
+<tr>
+<td width="33%">
+
+**Phase 1: Foundation**
+- ✅ C++ Programming
+- ✅ Arrays, Vectors, Maps
+- ✅ Stacks & Queues
+- ✅ Object-Oriented Programming
+- ✅ Relational Databases (SQL Server)
+- ✅ C# & Database Integration
 
 </td>
-<td width="50%" align="center">
+<td width="33%">
 
-### 🌟 Kasper Template
+**Phase 2: Web Development**
+- ✅ HTML5 Semantic Markup
+- ✅ CSS3 & Responsive Design
+- ✅ JavaScript ES6+
+- ✅ React Components & Hooks
+- ✅ State Management
+- ✅ Portfolio Development
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+</td>
+<td width="33%">
 
-Creative agency template with stunning visuals and interactive elements. A showcase of advanced CSS techniques and modern web design principles with emphasis on visual storytelling and user engagement.
-
-**Key Features:**
-- 🎭 Creative design approach
-- 🖼️ Visual storytelling
-- 💫 Interactive elements
-- 📐 Pixel-perfect layout
-
-<p>
-  <a href="https://github.com/YeahiaNurulAmin/Template_Kasper" target="_blank">
-    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-  <a href="https://yeahianurulamin.github.io/Template_Kasper/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-00d4aa?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-  </a>
-</p>
+**Phase 3: Full-Stack**
+- ✅ MongoDB Database Design
+- ✅ Express.js REST APIs
+- ✅ MERN Stack Integration
+- 🔄 Production Deployment
+- 🎯 Advanced State Management
+- 🎯 TypeScript Migration
 
 </td>
 </tr>
 </table>
 
-### 🚀 More Projects Coming Soon!
+---
 
-```javascript
-const upcomingProjects = {
-  reactTaskManager: {
-    stack: ["React", "Express", "MongoDB"],
-    status: "In Development",
-    progress: "🔄 Planning Phase"
-  },
-  nextjsPortfolio: {
-    stack: ["Next.js", "TypeScript", "Tailwind"],
-    status: "Design Phase", 
-    progress: "🎨 UI/UX Design"
-  },
-  fullStackEcommerce: {
-    stack: ["MERN Stack"],
-    status: "Roadmap",
-    progress: "📋 Architecture Planning"
-  }
-};
+## 🚀 Featured Projects
 
-console.log("Building the future, one project at a time! 🚀");
-```
+<div align="center">
+
+### 💻 Desktop Applications
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+#### 🏧 ATM System
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+Comprehensive ATM simulation with account management, transactions, and security features. Demonstrates OOP principles and data structure implementation.
+
+</td>
+<td width="33%" align="center">
+
+#### 🏦 Mini Bank System
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+Banking system featuring account operations, transaction history, and customer management using advanced C++ concepts.
+
+</td>
+<td width="33%" align="center">
+
+#### ⭕ Tic Tac Toe
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+Interactive game built with Windows Forms, showcasing GUI development and event-driven programming.
+
+</td>
+</tr>
+</table>
+
+### 🌐 Web Projects
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+#### 🎨 Leon Template
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+Modern, responsive landing page with elegant animations and clean design. Perfect pixel-precision and mobile-first approach.
+
+<a href="https://github.com/YeahiaNurulAmin/Tempate_Leon">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://yeahianurulamin.github.io/Tempate_Leon/">
+  <img src="https://img.shields.io/badge/Live_Demo-00d4aa?style=for-the-badge&logo=vercel" />
+</a>
+
+</td>
+<td width="50%" align="center">
+
+#### 🌟 Kasper Template
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+Creative agency template featuring stunning visuals, interactive elements, and advanced CSS techniques for visual storytelling.
+
+<a href="https://github.com/YeahiaNurulAmin/Template_Kasper">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://yeahianurulamin.github.io/Template_Kasper/">
+  <img src="https://img.shields.io/badge/Live_Demo-00d4aa?style=for-the-badge&logo=vercel" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+#### 💼 Interactive Portfolio
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+Dynamic portfolio website with smooth animations, interactive UI components, and responsive design showcasing JavaScript proficiency.
+
+</td>
+<td width="50%" align="center">
+
+#### ✅ To-Do List App
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+Modern task management application built with React, featuring state management, component lifecycle, and hooks implementation.
+
+</td>
+</tr>
+</table>
+
+### 🔥 Current Project
+
+<table>
+<tr>
+<td align="center">
+
+#### 🚀 Full-Stack MERN Application
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+**Status:** 🔄 Near Completion | **Progress:** 85%
+
+Complete full-stack web application demonstrating end-to-end development skills:
+- ⚛️ React frontend with modern hooks and state management
+- 🔧 RESTful API built with Express.js
+- 🗄️ MongoDB database with optimized schemas
+- 🔐 Authentication & authorization
+- 📱 Fully responsive design
+- 🚀 Production-ready architecture
+
+*Coming Soon: Repository & Live Demo*
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -252,28 +336,71 @@ console.log("Building the future, one project at a time! 🚀");
 
 ---
 
-## 🌐 Connect & Collaborate
+## 🎯 Technical Proficiency
 
 <div align="center">
 
-### 💬 Let's Build Something Amazing Together!
+| Category | Technologies | Proficiency |
+|----------|-------------|-------------|
+| **Programming** | C++, JavaScript, C#, Java, Python, PHP | ![90%](https://progress-bar.dev/90?color=00d4aa) |
+| **Frontend** | HTML5, CSS3, React, Responsive Design | ![85%](https://progress-bar.dev/85?color=00d4aa) |
+| **Backend** | Express.js, Node.js, REST APIs | ![80%](https://progress-bar.dev/80?color=00d4aa) |
+| **Databases** | MongoDB, SQL Server, MySQL | ![85%](https://progress-bar.dev/85?color=00d4aa) |
+| **Data Structures** | Arrays, Vectors, Maps, Stacks, Queues | ![90%](https://progress-bar.dev/90?color=00d4aa) |
+| **Paradigms** | OOP, Functional Programming, Event-Driven | ![85%](https://progress-bar.dev/85?color=00d4aa) |
+
+</div>
+
+---
+
+## 🌱 What's Next?
+
+<div align="center">
+
+```javascript
+const roadmap2026 = {
+  immediate: [
+    "Complete & Deploy MERN Application",
+    "Master Advanced React Patterns",
+    "TypeScript Integration"
+  ],
+  shortTerm: [
+    "Next.js Framework",
+    "Testing (Jest, React Testing Library)",
+    "CI/CD Pipelines"
+  ],
+  longTerm: [
+    "Cloud Deployment (AWS/Azure)",
+    "Microservices Architecture",
+    "System Design Mastery"
+  ]
+};
+
+console.log("The journey continues... 🚀");
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Open+for+Collaborations;Seeking+Development+Opportunities;Let's+Build+Something+Amazing!" alt="Connect" />
+
+**I'm interested in:**
+- 💼 Full-Stack Development Opportunities
+- 🤝 Open Source Contributions
+- 🧠 Technical Discussions & Knowledge Sharing
+- 🚀 Collaborative Projects
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Open+to+collaborations;Seeking+internship+opportunities;Always+ready+to+learn;Let's+connect+and+create!" alt="Connect Message" />
-</p>
-
-**Reach out for:**
-- 🤝 Collaboration opportunities
-- 💼 Internship discussions  
-- 🧠 Knowledge sharing
-- 💡 Project ideas
-
-<p>
-  <a href="https://www.linkedin.com/in/yeahia-nurul-amin-5b87aa366/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/yeahia-nurul-amin-5b87aa366/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yeahianurulamin8800@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -283,21 +410,23 @@ console.log("Building the future, one project at a time! 🚀");
 
 <div align="center">
 
-### 🎯 Philosophy
+### 💭 Developer Philosophy
 
-> *"In the world of code, every bug is a lesson, every feature is a victory,*  
-> *and every collaboration is a step toward innovation."*
+> *"From C++ fundamentals to full-stack mastery —*  
+> *every line of code is a step toward building impactful solutions."*
 
-<img src="https://komarev.com/ghpvc/?username=YeahiaNurulAmin&color=00d4aa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<br>
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=2000&color=6C7B7F&center=true&vCenter=true&width=400&lines=Thank+you+for+visiting+my+profile!;Happy+coding!+%F0%9F%9A%80;Let's+build+the+future+together!" alt="Thank you message" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=6C7B7F&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Always+learning%2C+always+building;Let's+create+the+future+together!+%F0%9F%9A%80" alt="Footer" />
+
+<br>
+
+**⭐ If you find my work interesting, consider starring my repositories!**
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&text=&fontSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%" />
 </div>
